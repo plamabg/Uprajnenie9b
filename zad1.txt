@@ -2,4 +2,10 @@ plamena
 Ivan
 Georgi
 uh
+<<<<<<< HEAD
 Plamena stancheva ivanova
+=======
+Alex Angelov
+
+
+>>>>>>> 7634fc76dd0c8a6fa4d0514a51d0a36725258a6e
